@@ -6,3 +6,7 @@ function foo()
 //
 //
 // **
+
+function hat() {
+    console.log("hat!")
+}

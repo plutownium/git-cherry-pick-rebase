@@ -10,3 +10,7 @@ function foo()
 function hat() {
     console.log("hat!")
 }
+
+function jazz() {
+    return jazz()
+}
